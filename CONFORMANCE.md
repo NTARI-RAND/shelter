@@ -15,7 +15,7 @@
 | REC-3 | No PII in anything shared | **Met by design** — INV-5/6/8/10: pseudonyms, no PII in logs, verify-don't-retain, no status categories |
 | REC-9 | Relation types | **Partial** — direction-typed ratings (citizen↔beneficiary, inspection) map naturally; formal typing at build |
 | GOV-9 | Living open-questions document | **Met** — `OPEN-QUESTIONS.md` ships with this seed |
-| GOV-10 | Copyleft commons | **Open** — LBTAS reuse vs. reimplement (OQ-3) |
+| GOV-10 | Copyleft commons | **Met (license)** — AGPL-3.0-only (governance registry Entry 9); LBTAS reuse vs. reimplement stays open as an engineering choice (OQ-3) |
 | Problem 8 | Witness cost floor | **Named** — self-attested records until witnessing is affordable here (OQ-2) |
 
 **Honesty line:** no witnessed record exists; every reputation read is operator-attested. INV-10's "we don't collect that" defense is architectural and must survive every future schema change.

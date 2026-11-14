@@ -17,7 +17,7 @@
 ## 3. Licensing (spec §15.10 / §16)
 **Problem.** Reuse LBTAS code (AGPL for the whole networked app) or reimplement the behavior independently.
 **Constraints inherited.** Provenance is inbound = outbound copyleft, no CLA (GOV-10); NTARI's §1.4 open-source commitment applies either way; a reimplementation must reproduce the distribution-on-read model, the −1 comment rule, and harm-flagging — those behaviors *are* the scale.
-**Status.** Open — AGPL-3.0 end-to-end is the path of least tension.
+**Status.** License settled — the Institute's work here is AGPL-3.0-only under governance registry Entry 9, whichever path is taken; reuse vs. reimplement stays open as an engineering choice.
 
 ## 4. The caseworker gate and beneficiary exit (INV-1)
 **Problem.** No active CaseLink, no function — the anchor that makes verification real is also a power chokepoint over the beneficiary.
