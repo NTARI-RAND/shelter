@@ -27,7 +27,7 @@
 | REC-3 | sona pi jan ("PII") li lon ala ijo ale pi kama pana | **pona tan nasin (Met by design)** — INV-5/6/8/10: nimi len; sona pi jan ("PII") li lon ala lipu pi pali ilo (logs); o lukin e lon, o awen ala (verify-don't-retain); kulupu pi lon jan (status categories) li lon ala |
 | REC-9 | kule pi linja jan (relation types) | **kipisi taso (Partial)** — pana nanpa pi kule poka (direction-typed ratings) (citizen↔beneficiary, inspection) li kama sama pona; kule lawa (formal typing) li kama lon tenpo pali |
 | GOV-9 | lipu pi wile sona pi pini ala li lon, li ante lon tenpo ale | **pona (Met)** — `OPEN-QUESTIONS.md` li kama poka lipu open ni |
-| GOV-10 | poki pi jan ale (copyleft) | **pini ala (Open)** — kepeken sin pi ilo LBTAS anu pali sin e ona (OQ-3) |
+| GOV-10 | poki pi jan ale (copyleft) | **pona (nasin pi ken kepeken) (Met (license))** — AGPL-3.0-only (lipu nanpa 9 pi lipu awen pi nasin lawa); kepeken sin pi ilo LBTAS anu pali sin e ona li pini ala; jan pali li toki e ni (OQ-3) |
 | Problem 8 | mani anpa pi jan lukin (witness cost floor) | **jo e nimi (Named)** — lipu awen li tan ona sama taso, tawa tenpo ni: jan li ken pana e mani tawa jan lukin lon ma ni (OQ-2) |
 
 **toki lon:** lipu awen pi jan lukin li lon ala; lukin ale pi nimi pona (reputation read) li tan toki pi jan lawa ilo (operator-attested) taso. toki "we don't collect that" (mi kama jo ala e ni) pi INV-10 li nasin awen (defense) lon nasin pi ilo ni (architectural); nasin awen ni o awen lon ante ale kama pi selo sona (schema).

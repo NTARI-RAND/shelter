@@ -23,7 +23,7 @@
 | REC-3 | Nenhuma PII em nada que seja compartilhado | **Atendido por design** — INV-5/6/8/10: pseudônimos, nenhuma PII nos logs, verificar sem reter, nenhuma categoria de status |
 | REC-9 | Tipos de relação | **Parcial** — avaliações tipadas por direção (cidadão↔beneficiário, inspeção) mapeiam-se naturalmente; tipagem formal na construção |
 | GOV-9 | Documento vivo de questões em aberto | **Atendido** — `OPEN-QUESTIONS.md` acompanha esta semente |
-| GOV-10 | Commons copyleft | **Em aberto** — reutilizar o LBTAS vs. reimplementá-lo (OQ-3) |
+| GOV-10 | Commons copyleft | **Atendido (licença)** — AGPL-3.0-only (entrada 9 do registro de governança); reutilizar o LBTAS vs. reimplementá-lo segue em aberto como escolha de engenharia (OQ-3) |
 | Problema 8 | Piso de custo do testemunho | **Nomeado** — registros autoatestados até que o testemunho seja acessível aqui (OQ-2) |
 
 **Linha de honestidade:** não existe nenhum registro testemunhado; toda leitura de reputação é atestada pelo operador. A defesa do INV-10, "não coletamos isso", é arquitetural e deve sobreviver a toda mudança futura de esquema.

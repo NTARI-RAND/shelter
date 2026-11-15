@@ -23,7 +23,7 @@
 | REC-3 | Sin PII (datos de identificación personal) en nada compartido | **Cumplido por diseño** — INV-5/6/8/10: seudónimos, sin PII en los registros (logs), verificar sin retener, sin categorías de estatus |
 | REC-9 | Tipos de relación | **Parcial** — las calificaciones tipadas por dirección (ciudadano↔beneficiario, inspección) se corresponden de forma natural; el tipado formal se define en la construcción |
 | GOV-9 | Documento vivo de preguntas abiertas | **Cumplido** — `OPEN-QUESTIONS.md` se distribuye con esta semilla |
-| GOV-10 | Bien común copyleft | **Abierto** — LBTAS: reutilizar frente a reimplementar (OQ-3) |
+| GOV-10 | Bien común copyleft | **Cumplido (licencia)** — AGPL-3.0-only (entrada 9 del registro de gobernanza); LBTAS: reutilizar frente a reimplementar sigue abierto como decisión de ingeniería (OQ-3) |
 | Problema 8 | Piso de costo de los testigos | **Nombrado** — registros autodeclarados hasta que atestiguar sea asequible aquí (OQ-2) |
 
 **Línea de honestidad:** no existe ningún registro atestiguado; toda lectura de reputación está atestada por el operador. La defensa "no recopilamos eso" de INV-10 es arquitectónica y debe sobrevivir a todo cambio futuro del esquema.

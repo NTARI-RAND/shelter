@@ -24,7 +24,7 @@
 | REC-3 | Aucune donnée personnelle (PII) dans ce qui est partagé | **Respecté par conception** — INV-5/6/8/10 : pseudonymes, aucune PII dans les journaux, vérifier sans conserver, aucune catégorie de statut |
 | REC-9 | Types de relations | **Partiel** — les évaluations typées par direction (citoyen↔bénéficiaire, inspection) s'y rattachent naturellement ; typage formel lors de la construction |
 | GOV-9 | Document vivant des questions ouvertes | **Respecté** — `OPEN-QUESTIONS.md` est livré avec ce document fondateur |
-| GOV-10 | Communs copyleft | **Ouvert** — réutiliser LBTAS ou le réimplémenter (OQ-3) |
+| GOV-10 | Communs copyleft | **Satisfait (licence)** — AGPL-3.0-only (entrée 9 du registre de gouvernance) ; réutiliser LBTAS ou le réimplémenter reste ouvert, comme choix d'ingénierie (OQ-3) |
 | Problème 8 | Plancher de coût du témoignage | **Nommé** — registres auto-attestés tant que l'attestation par témoins n'est pas abordable ici (OQ-2) |
 
 **Ligne d'honnêteté :** aucun registre attesté par témoins n'existe ; toute lecture de réputation est attestée par l'opérateur. La défense « nous ne collectons pas cela » d'INV-10 est architecturale et doit survivre à chaque modification future du schéma.
